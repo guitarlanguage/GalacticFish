@@ -108,7 +108,7 @@ function queueLoaded(event)
 
     // Create bat sprite
     createEnemy();
-  
+
 
    /*
     // Create crosshair
